@@ -2,7 +2,7 @@
 #                                            #
 # Exploratory Data Analysis - Week 1 project #
 #                                            #
-#   Plot 3                                   #
+#   Plot 3       -                            #
 #                                            #
 #                                            #
 ##############################################
